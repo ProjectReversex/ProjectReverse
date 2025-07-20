@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectReversex/Egg-Randomizer/refs/heads/main/MainScript", true))
+loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"))()
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/UBSaJ8S6iu/0", true))()
